@@ -4,4 +4,4 @@
 
 When running ofDocs locally, changes to markdown files can be made from within the app and viewed instantly. A static version can be also generated using Nuxt. The structure of files and folders will are parsed into HTML and JSON that can be hosted on a standard LAMP server, or on Github Pages:
 
-### [ofDocs](ofdocs.cc)
+## [Open ofDocs app](https://ofdocs.cc)
